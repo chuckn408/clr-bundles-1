@@ -4,8 +4,8 @@ compat-efivar-soname0-lib # Compatibility libraries for older soname
 compat-enchant-soname1-lib # Compatibility libraries for older soname
 compat-exiv2-soname1-lib # Compatibility libraries for older soname
 compat-fuse-soname2-lib # Compatibility libraries for older soname
-compat-gegl-lib # Compatibility libraries for older soname
 compat-gegl-0.3-lib # Compatibility libraries for older soname
+compat-gegl-lib # Compatibility libraries for older soname
 compat-glew-soname1-lib # Compatibility libraries for older soname
 compat-gmime-26-lib # Compatibility libraries for older soname
 compat-gtksourceview-soname3-lib # Compatibility libraries for older soname
