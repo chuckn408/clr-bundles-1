@@ -24,7 +24,10 @@ boinc-client # volunteer computing and grid computing
 borgbackup # Deduplicating archiver with compression and authenticated encryption.
 cabextract # Manipulate CAB archives
 calc # Arbitrary precision console calculator
+<<<<<<< HEAD
 cassandra # A free and open-source, distributed, wide column store, NoSQL database
+=======
+>>>>>>> 225b8c5fe1ba544db1bd34dbf9d2ceae4440e4e8
 casync # Content Addressable Data Synchronizer, to distribute frequently-updated file system images over the Internet
 ccache # cache compilations to avoid redoing the same computation and speed project build times
 ceph # Ceph Base Package
@@ -106,7 +109,11 @@ gparted # A Partition Magic clone, frontend to GNU Parted
 gpgme # GPG encryption tools
 gphoto2 # Command line interface to libgphoto2
 graphviz # Library for parsing graphs in xdot format
+<<<<<<< HEAD
 gsequencer # Advanced Gtk+ Sequencer
+=======
+gsequencer # Advanced Gtk+ Sequencer 
+>>>>>>> 225b8c5fe1ba544db1bd34dbf9d2ceae4440e4e8
 gstreamer # Streaming media framework
 gtk-vnc # A GTK2 widget for VNC clients
 gtkwave # A wave viewer which reads LXT, LXT2, VZT, GHW and VCD/EVCD files
@@ -170,7 +177,10 @@ llvm # LLVM/Clang compiler toolchain
 lm-sensors # Read various system sensors, sometimes using scary methods
 logrotate # manages the automatic rotation and compression of log files
 ltp # Linux Test Project
+<<<<<<< HEAD
 lynx # a text browser for the World Wide Web.
+=======
+>>>>>>> 225b8c5fe1ba544db1bd34dbf9d2ceae4440e4e8
 lz4 # tools to compress and decompress lz4 files
 make # build automation tool
 man-pages # No detailed summary available
