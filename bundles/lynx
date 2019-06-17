@@ -1,0 +1,14 @@
+# [TITLE]: lynx
+# [DESCRIPTION]: A text browser for the World Wide Web
+# [STATUS]: WIP
+# [CAPABILITIES]:
+# [TAGS]: Applications, Tools and Utilities
+# [MAINTAINER]: <lynx-dev@nongnu.org>
+
+
+# start of custom additions (edits outside this area will be removed automatically)
+
+# end of custom additions
+
+# main package
+lynx

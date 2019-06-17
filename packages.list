@@ -170,6 +170,7 @@ llvm # LLVM/Clang compiler toolchain
 lm-sensors # Read various system sensors, sometimes using scary methods
 logrotate # manages the automatic rotation and compression of log files
 ltp # Linux Test Project
+lynx # a text browser for the World Wide Web.
 lz4 # tools to compress and decompress lz4 files
 make # build automation tool
 man-pages # No detailed summary available
